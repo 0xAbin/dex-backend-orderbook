@@ -7,9 +7,6 @@ This service is used to feed the orderbook with the latest orders.
 ```bash
 cargo build
 ```
-
-#### Run
-
 ```bash
 cargo run
 ```
@@ -19,9 +16,6 @@ cargo run
 ```bash
 cargo build --release
 ```
-
-#### Run
-
 ```bash
 cargo run --release
 ```
